@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido em Java, durante o *bootcamp* do banco Santander, ministrado pela Digital Innovation One, sob orientação da especialista professora [Kamila Santos](https://www.linkedin.com/in/kamila-santos-oliveira/).
 
-Foi aprimorado o conhecimento no desenvolvimento de um projeto que realiza todas as principais operações CRUD, o uso das annotations do lombok, a configração do H2 para rápida criação de um *database* funcional, a estruturação dos pacotes e outras boas práticas de desenvolvimento.
+Foi aprimorado o conhecimento no desenvolvimento de um projeto que realiza todas as principais operações CRUD, o uso das annotations do lombok, a configuração do H2 para rápida criação de um *database* funcional, a estruturação dos pacotes e outras boas práticas de desenvolvimento.
 
 Trata-se do *back-end* do sistema de agendamento de salas de reunião. Devido às boas práticas do *github*, optou-se por criar outro repositório para armazenar o front-end deste projeto, que encontra-se [neste repositório](https://github.com/EXPedro/meetingroom-frontend).
 
