@@ -1,15 +1,22 @@
 # Sala de Reuniões
 
-Este projeto foi desenvolvido em Java, durante o *bootcamp* do banco Santander, ministrado pela Digital Innovation One, sob orientação da especialista professora [Kamila Santos](https://www.linkedin.com/in/kamila-santos-oliveira/).
+:scroll::jigsaw: Sistema para gerenciamento de salas de reunião, com agendamento de horários.
+- __Backend__  
+- Realiza todas as principais operações __CRUD__
+- Usa __lombok__  
+- Banco de dados __H2__, que permite a criação rápida de um banco de dados funcional
+- Pacotes estruturados de acordo com as __boas práticas__ de desenvolvimento.
 
-Foi aprimorado o conhecimento no desenvolvimento de um projeto que realiza todas as principais operações CRUD, o uso das annotations do lombok, a configuração do H2 para rápida criação de um *database* funcional, a estruturação dos pacotes e outras boas práticas de desenvolvimento.
+Backend de um sistema de agendamento de salas de reunião. O frontend que permite o controle do banco de dados deste projeto, encontra-se [neste repositório](https://github.com/EXPedro/meetingroom-frontend). 
 
-Trata-se do *back-end* do sistema de agendamento de salas de reunião. Devido às boas práticas do *github*, optou-se por criar outro repositório para armazenar o front-end deste projeto, que encontra-se [neste repositório](https://github.com/EXPedro/meetingroom-frontend).
+## :wrench::screwdriver::hammer: Ferramentas utilizadas    
 
-## Development server
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+[<img src = "https://encurtador.com.br/gmCFQ" width = "auto" height = "28px">](https://encurtador.com.br/gmCFQ) 
 
-Em modo de desenvolvimento, após rodar este back-end, pode-se rodar o [front-end](https://github.com/EXPedro/meetingroom-frontend), com o comando `ng serve` para iniciar um dev server, no endereço padrão do angular, `http://localhost:4200/`. Nele podem ser realizadas as operações de get (Room List), get by id (details), post (add Room), put (update) e delete. 
-
-> Projeto concluído em 08/2021.
+#### :purple_circle: Projeto concluído em 26/08/2021.
 
 
